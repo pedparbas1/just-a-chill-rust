@@ -1,0 +1,7 @@
+{
+    "rust-analyzer.checkOnSave": false,
+    "rust-analyzer.debug.engineSettings": {
+
+    },
+    "rust-analyzer.initializeStopped": false,
+}
